@@ -15,6 +15,6 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/twrp_marble.mk
+    $(LOCAL_DIR)/twrp_timelm.mk
 
-COMMON_LUNCH_CHOICES := twrp_marble-eng
+COMMON_LUNCH_CHOICES := twrp_timelm-eng

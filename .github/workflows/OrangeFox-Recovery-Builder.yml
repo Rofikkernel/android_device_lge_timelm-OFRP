@@ -28,7 +28,7 @@ on:
       DEVICE_PATH:
         description: 'Specify your device path.'
         required: true
-        default: 'device/xiaomi/marble'
+        default: 'device/lge/timelm'
       DEVICE_NAME:
         description: 'Specify your Device Codename.'
         required: true
